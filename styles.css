@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table,td,tr{
+        width: 1100px;
+        border: 1px solid black;
+      
+      }
+.f-column{
+	width: 200px;
+}
+.m-column{
+width: 600px;
+}
